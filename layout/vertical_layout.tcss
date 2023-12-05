@@ -1,0 +1,13 @@
+Screen {
+    layout: vertical;
+}
+
+.box {
+    height: 1fr;
+    border: solid green;
+}
+
+.box2 {
+    height: 2fr;
+    border: solid red;
+}
