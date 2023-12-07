@@ -1,0 +1,22 @@
+Screen {
+    background: $boost;
+}
+
+TextArea {
+    border: greenyellow;
+}
+
+Static {
+    background: $secondary;
+    color: $panel;
+}
+
+RichLog {
+    border: greenyellow;
+}
+
+Horizontal {
+    border: greenyellow;
+    align: center middle;
+    height: auto;
+}
